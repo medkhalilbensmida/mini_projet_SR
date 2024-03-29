@@ -1,0 +1,5 @@
+{
+    "IDX.aI.enableCodebaseIndexing": true,
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.debug.settings.onBuildFailureProceed": true
+}
